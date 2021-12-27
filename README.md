@@ -9,7 +9,7 @@ GAME CONCEPT
 - The seal needs to be kept happy. Play with it, feed it, and don't make it angry! Your important documents are at stake.
 - Communicate and carry out game commands by typing into the seal interaction terminal. 
 - When the seal is hungry or annoyed, it will encrypt random files in your computer's `documents` folder. 
-- To decrypt encrypted `.sealEncrypted` files you will need to feed your seal tasty fish. Look around your computer for `.tastyFish` files that will spawn after the seal barks at you requesting to be fed. Each `.tastyFish` contains a key that will decrypt one specific file. Go fishing! 
+- To decrypt encrypted `.sealEncrypted` files you will need to feed your seal tasty fish. Look around your computer for `.tastyfish` files that will spawn after the seal barks at you requesting to be fed. Each `.tastyfish` contains a key that will decrypt one specific file. Go fishing! 
 - Feed your seal by placing the tasty fish into your `/FEED_ME` folder and running the feeding command. Your seal will only eat if its feeding area is clean. Depending on how much it's eaten, the seal's crap can take up a lot of space... 
 - The more annoyed the seal is, the more frequently it will encrypt your files. 
 
