@@ -1,10 +1,12 @@
-INSTALLATION
+# Seal
+
+## INSTALLATION
 - `pip install playsound`
 - `pip install cryptography`
 - `python seal.py`
 - Won't work with Windows or Python 2
 
-GAME CONCEPT 
+## GAME CONCEPT 
 - As you start the program you will spawn a demanding and tech-savvy seal. 
 - The seal needs to be kept happy. Play with it, feed it, and don't make it angry! Your important documents are at stake.
 - Communicate and carry out game commands by typing into the seal interaction terminal. 
@@ -17,7 +19,7 @@ GAME CONCEPT
 
 - Some helpful commands: `feed, clean, play, stats, exit`
 
-N.B: 
+## N.B: 
 - The seal only likes to encrypt `'.png', '.jpg', '.pdf', '.txt', '.docx', '.mp3'` and `'.mp4'` files. It does not care for any other file types. Yuk! 
 - As you play the game, a SEALED.seal file will appear in your game directory. Do not delete this if you have files that you need to decrypt! 
 - Do not rename `.sealEncrypted` files or the names of their directories/subdirectories, otherwise you won't be able to decrypt them!
