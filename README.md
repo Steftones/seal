@@ -1,5 +1,7 @@
 # Seal
 
+As part of a recent desire to make anti-markatable software I developed this pointlessly dangerous and sadomasochistic "game"
+
 ## INSTALLATION
 - `pip install playsound`
 - `pip install cryptography`
