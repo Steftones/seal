@@ -21,6 +21,6 @@
 
 ## N.B: 
 - The seal only likes to encrypt `'.png', '.jpg', '.pdf', '.txt', '.docx', '.mp3'` and `'.mp4'` files. It does not care for any other file types. Yuk! 
-- As you play the game, a SEALED.seal file will appear in your game directory. Do not delete this if you have files that you need to decrypt! 
+- As you play the game, a `SEALED.seal` file will appear in your game directory. Do not delete this if you have files that you need to decrypt! 
 - Do not rename `.sealEncrypted` files or the names of their directories/subdirectories, otherwise you won't be able to decrypt them!
 - Exit the game by typing in `exit` and waiting for the program to terminate, otherwise you could risk damaging your data.
